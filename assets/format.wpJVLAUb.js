@@ -1,0 +1,1 @@
+import{N as e}from"./index-DKeK23Dc.js";const o=e=>(e/100).toFixed(2),t=e=>new Date(e).toLocaleString("zh-CN",{hour12:!1}).replaceAll("/","-"),s=(e=300)=>new Promise(o=>setTimeout(o,e)),a=o=>e({title:o,icon:"success",duration:1200}),i=o=>e({title:o,icon:"none",duration:1600});export{i as a,t as d,o as m,a as s,s as w};
