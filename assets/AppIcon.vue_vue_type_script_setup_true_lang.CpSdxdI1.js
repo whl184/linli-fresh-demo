@@ -1,0 +1,1 @@
+import{d as s,o,c as e,h as a,v as l,m as r}from"./index-DTVTy0Lo.js";const t=s({__name:"AppIcon",props:{name:{},size:{default:20},color:{default:"currentColor"}},setup:s=>(s,t)=>{const n=a;return o(),e(n,{class:r(["bi",`bi-${s.name}`]),style:l({fontSize:`${s.size}px`,color:s.color})},null,8,["class","style"])}});export{t as _};
